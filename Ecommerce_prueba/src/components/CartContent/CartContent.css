@@ -1,0 +1,26 @@
+.cartContent {
+    display: flex;
+    flex-direction: column;
+    margin: 30px;
+    padding: 30px;
+}
+
+.cartImage {
+    width: 200px;
+    height: 200px;
+    text-align: center;
+}
+
+.cartTotal {
+    text-align: center;
+}
+
+.cartCard {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 10px;
+    padding: 10px;
+    /* border: 1px solid black; */
+    font-size: 32px;
+}
